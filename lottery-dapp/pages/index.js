@@ -120,6 +120,7 @@ export default function Home() {
         const accounts = await web3.eth.getAccounts()
         /* set account 1 to React state */
         setAddress(accounts[0])
+        setConnButtonText('Wallet Connected');
 
         /* create local contract copy */
         const lc = lotteryContract(web3)
