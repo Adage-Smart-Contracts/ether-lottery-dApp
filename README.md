@@ -8,7 +8,7 @@ To view the smart contract transaction [click here.](https://rinkeby.etherscan.i
 
 To view the admin transaction who created the smart contract [click here.](https://rinkeby.etherscan.io/address/0xD5E28d615AB9052039e57bDe6F5CbdfDDaeaD41d)
 
-### Getting Started with the dApp
+## Getting Started with the dApp
 Open Linux Terminal and clone the repo:
 ```bash
 git clone https://github.com/Adage-Smart-Contracts/ether-lottery-dApp
