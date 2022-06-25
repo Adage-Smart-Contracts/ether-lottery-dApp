@@ -11,22 +11,13 @@ change directory to lottery-dapp:
 cd ether-lottery-dApp/lottery-dapp
 ```
 
-open the lottery directory in vscode:
-```bash
-code .
-```
-
 Install dependencies:
 ```bash
-npm install
-# or
 yarn
 ```
 
 Run the development server:
 ```bash
-npm run dev
-# or
 yarn dev
 ```
 
