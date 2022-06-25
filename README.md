@@ -1,7 +1,7 @@
 # Getting Started with ether-lottery-dApp
 Ether Lottery dApp created by Kapilan.
 
-### Open `Linux` Terminal
+Open `Linux` Terminal
 clone the repo:
 ```bash
 git clone https://github.com/Adage-Smart-Contracts/ether-lottery-dApp
