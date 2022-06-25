@@ -4,9 +4,9 @@ Ether Lottery dApp created by Kapilan.
 ## Smart Contract Details
 Smart Contract is deployed into the Rinkeby Testnet.
 
-To view the smart contract transaction [click here](https://rinkeby.etherscan.io/address/0x1a6f63aeFa9FA742D6987FeE3F3127E15442b757)
+To view the smart contract transaction [click here.](https://rinkeby.etherscan.io/address/0x1a6f63aeFa9FA742D6987FeE3F3127E15442b757)
 
-To view the admin transaction who created the smart contract [click here](https://rinkeby.etherscan.io/address/0xD5E28d615AB9052039e57bDe6F5CbdfDDaeaD41d)
+To view the admin transaction who created the smart contract [click here.](https://rinkeby.etherscan.io/address/0xD5E28d615AB9052039e57bDe6F5CbdfDDaeaD41d)
 
 ## Getting Started with the dApp
 Open Linux Terminal and clone the repo:
