@@ -2,6 +2,7 @@
 Ether Lottery dApp created by Kapilan.
 
 Open `Linux` Terminal
+
 clone the repo:
 ```bash
 git clone https://github.com/Adage-Smart-Contracts/ether-lottery-dApp
