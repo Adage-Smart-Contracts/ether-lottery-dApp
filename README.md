@@ -14,7 +14,7 @@ Open linux terminal and clone the repo:
 git clone https://github.com/Adage-Smart-Contracts/ether-lottery-dApp
 ```
 
-change directory to lottery-dapp:
+Change directory to lottery-dapp:
 ```bash
 cd ether-lottery-dApp/lottery-dapp
 ```
